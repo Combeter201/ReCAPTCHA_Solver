@@ -10,7 +10,7 @@ import pydub
 import urllib
 import speech_recognition
 
-data_path = "C:/Users/David/Desktop/CAPTCHA-solver"
+data_path = "PATH TO MAIN.PY"
 
 # startet Chromedriver und ruft die Website auf
 browser = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
